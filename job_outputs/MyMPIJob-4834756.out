@@ -1,0 +1,10 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 4834756
+##  Job Name : MyMPIJob
+##  Nodelist : node1326
+##      CPUs : 1
+##   Mem/CPU : 2800 MB
+## Directory : /oscar/home/agglover/Desktop/climate-modeling-labs
+##   Job Started : Thu Oct  3 05:10:04 PM EDT 2024
+###############################################################################
+Hello!
